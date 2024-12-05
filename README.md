@@ -14,34 +14,25 @@ Sou um **Desenvolvedor BackEnd** apaixonado por tecnologia e inovação. Trabalh
 
 ## 🚀 Habilidades Técnicas
 
-- Linguagens de Programação: 
 
-    [![My Skills](https://skillicons.dev/icons?i=java,javascript,python)](https://skillicons.dev)
-- Frameworks e Bibliotecas: 
+- **Linguagens de Programação:**  
+  [![My Skills](https://skillicons.dev/icons?i=java,javascript,python)](https://skillicons.dev)
 
-    [![My Skills](https://skillicons.dev/icons?i=selenium,flask)](https://skillicons.dev)
-- Dados: 
+- **Frameworks e Bibliotecas:**  
+  [![My Skills](https://skillicons.dev/icons?i=selenium,flask,nodejs)](https://skillicons.dev)
 
-    [![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev)
-- Ferramentas e Tecnologias: 
+- **Dados:**  
+  [![My Skills](https://skillicons.dev/icons?i=mysql,mongo,sqlite)](https://skillicons.dev)
 
-    [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,eclipse,jetbrains,idea)](https://skillicons.dev)
-    
-- Desenvolvimento Web:
+- **Ferramentas e Tecnologias:**  
+  [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,eclipse,jetbrains)](https://skillicons.dev)  
+  [![My Skills](https://skillicons.dev/icons?i=idea,androidstudio)](https://skillicons.dev)
 
-    [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+- **Desenvolvimento Web:**  
+  [![My Skills](https://skillicons.dev/icons?i=html,css,postman,bootstrap)](https://skillicons.dev)
 
 
 ## 🌐 Conecte-se comigo
-- 🌎 [Meu Portfólio](https://seu-portfolio.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-usuario)  
-- 🐦 [Twitter](https://twitter.com/seu-usuario)
-
-## 📂 Projetos Destacados
-- [📱 Meu App Incrível](https://github.com/seu-usuario/meu-app-incrivel)  
-- [🌟 Biblioteca de Componentes UI](https://github.com/seu-usuario/biblioteca-ui)  
-- [🎮 Jogo Android](https://github.com/seu-usuario/jogo-android)
-
----
-
-⭐ Não esqueça de dar uma estrela nos repositórios que você gostou! 😉
+![Gmail Badge](https://img.shields.io/badge/-davibeserracaldas@outlook.com-006bed?style=flat-square&logo=Gmail&logoColor=red&link=mailto:{SeuEmail})<br>
+[![Linkedin: Ellen](https://img.shields.io/badge/-Davi_Beserra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davi-beserra/)](https://www.linkedin.com/in/davi-beserra/)<br>
+![Discord Badge](https://img.shields.io/badge/-0hk1-darkblue?style=flat-square&logo=Discord&logoColor=white&link=mailto:{SeuEmail})
