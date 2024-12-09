@@ -1,8 +1,17 @@
 # Olá! 👋 Bem-vindo ao meu perfil no GitHub
 
 ## 🚀 Sobre mim
+<img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil Flag" width="40">
+
 Sou um **Desenvolvedor BackEnd** apaixonado por tecnologia e inovação. Trabalho criando soluções eficientes e com foco em experiência do usuário.<br>
  Atualmente estou no 4 semestre no curso de Análise e Desenvolvimento de Sistemas(ADS) e estou em busca de uma oportunidade como estágiario na área ou como desenvolvedor junior.
+
+<img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="USA Flag" width="40">
+
+
+I am a BackEnd Developer passionate about technology and innovation. I work on creating efficient solutions with a focus on user experience.
+<br>
+I am currently in the 4th semester of the Systems Analysis and Development (ADS) program, and I am looking for an opportunity as an intern in the field or as a junior developer.
 
 <img src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif" alt="Software Developer">
 
