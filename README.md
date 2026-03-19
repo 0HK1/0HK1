@@ -1,19 +1,22 @@
 # Olá! 👋 Bem-vindo ao meu perfil no GitHub
 
 ## 🚀 Sobre mim
-<img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil Flag" width="40">
+<img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="BR Flag" width="40">
 
-Sou um **Desenvolvedor BackEnd** apaixonado por tecnologia e inovação. Trabalho criando soluções eficientes e com foco em experiência do usuário.<br>
- Atualmente estou no 4 semestre no curso de Análise e Desenvolvimento de Sistemas(ADS) e estou em busca de uma oportunidade como estágiario na área ou como desenvolvedor junior.
+Sou um **Desenvolvedor Backend** focado na construção de APIs, manipulação de dados e integração de sistemas. Tenho experiência com Python, Java e desenvolvimento de aplicações web, incluindo a criação de serviços utilizando **REST** e **gRPC**, buscando sempre soluções eficientes e escaláveis.
 
-<img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="USA Flag" width="40">
+Atualmente sou formado em **Análise e Desenvolvimento de Sistemas (ADS)** e atuo como desenvolvedor júnior.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Flag_of_the_United_Kingdom_%281-2%3B_upside_down%29.svg" alt="UK Flag" width="40">
 
 
-I am a BackEnd Developer passionate about technology and innovation. I work on creating efficient solutions with a focus on user experience.
-<br>
-I am currently in the 4th semester of the Systems Analysis and Development (ADS) program, and I am looking for an opportunity as an intern in the field or as a junior developer.
+I am a **Backend Developer** focused on building APIs, data processing, and system integration. I have experience with Python, Java, and web application development, including the creation of services using **REST** and **gRPC**, always aiming for efficient and scalable solutions.
 
-<img src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif" alt="Software Developer">
+I have a degree in **Systems Analysis and Development (ADS)** and currently work as a junior developer.
+
+<div align="center">
+  <img src="py_dependences.gif" width="600">
+</div>
 
 ## 📊 Estatísticas
 <div style="display: flex; justify-content: center; align-items: center;">
@@ -28,14 +31,14 @@ I am currently in the 4th semester of the Systems Analysis and Development (ADS)
   [![My Skills](https://skillicons.dev/icons?i=java,javascript,python)](https://skillicons.dev)
 
 - **Frameworks e Bibliotecas:**  
-  [![My Skills](https://skillicons.dev/icons?i=selenium,flask,nodejs)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=selenium,flask,fastapi,spring)](https://skillicons.dev)
 
 - **Dados:**  
-  [![My Skills](https://skillicons.dev/icons?i=mysql,mongo,sqlite)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=mysql,mongo,postgresql,redis)](https://skillicons.dev)
 
 - **Ferramentas e Tecnologias:**  
   [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,eclipse,jetbrains)](https://skillicons.dev)  
-  [![My Skills](https://skillicons.dev/icons?i=idea,androidstudio)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=idea,androidstudio,docker)](https://skillicons.dev)
 
 - **Desenvolvimento Web:**  
   [![My Skills](https://skillicons.dev/icons?i=html,css,postman,bootstrap)](https://skillicons.dev)
