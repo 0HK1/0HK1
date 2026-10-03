@@ -25,6 +25,7 @@ Interesse      Backend, Automação e Software Livre
 <div align="center">
   <a href="mailto:davibeserracaldas@outlook.com"><img src="https://img.shields.io/badge/Email-davibeserracaldas%40outlook.com-161b22?style=for-the-badge&logo=microsoftoutlook&logoColor=8b949e" alt="Enviar email" /></a>
   <a href="https://www.linkedin.com/in/davi-beserra/"><img src="https://img.shields.io/badge/LinkedIn-Davi%20Beserra-161b22?style=for-the-badge&logo=linkedin&logoColor=8b949e" alt="LinkedIn" /></a>
+  <a href="https://gitlab.com/bes_davi"><img src="https://img.shields.io/badge/GitLab-bes__davi-161b22?style=for-the-badge&logo=gitlab&logoColor=8b949e" alt="GitLab" /></a>
 </div>
 
 ## Formação
